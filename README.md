@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MED-B
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning spring boot
+- 🌱 I’m currently learning ODOO
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mohammed.khellaf@univ-constantine2.dz
 
